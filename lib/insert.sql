@@ -6,6 +6,3 @@ INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Meliss
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Grinch", 3, "M", "BROWN", "HAPPY", True);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES ("Wendy", 3, "M", "BROWN", "HAPPY", True);
 INSERT INTO bears (name, age, gender, color, temperament, alive) VALUES (NULL, 3, "M", "BROWN", "HAPPY", True);
-
-
-
